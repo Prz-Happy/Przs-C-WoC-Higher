@@ -53,4 +53,5 @@ cmake --build .
 ## 主要参考文献
 - https://doc.qt.io/qt-6/resources.html 据此解决了Qt+CMake加载不了qrc的问题
 - https://www.bilibili.com/video/BV1paeneGEd9/?spm_id_from=333.337.search-card.all.click&vd_source=982f5b0d4fe15aac09b82e6ffcedbe98  大力参考此视频制作了代码主干
+- https://www.bilibili.com/video/BV1Zy4y1z7SY/?spm_id_from=333.788.videopod.episodes&vd_source=982f5b0d4fe15aac09b82e6ffcedbe98&p=40 猫猫虫素材来源于此视频
 
